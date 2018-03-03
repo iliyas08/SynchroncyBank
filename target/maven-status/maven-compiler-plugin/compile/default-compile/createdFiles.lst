@@ -1,0 +1,4 @@
+com\synchrony\qa\pages\Loginpage.class
+com\synchrony\qa\pages\AccountSummary.class
+com\synchrony\qa\base\TestBase.class
+com\synchrony\qa\util\TestUtil.class
