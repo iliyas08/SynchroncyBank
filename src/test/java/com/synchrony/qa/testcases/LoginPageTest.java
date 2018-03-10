@@ -34,6 +34,11 @@ public class LoginPageTest extends TestBase {
 			Assert.assertEquals(Title, "Synchrony Bank - Login");			
 		 
 		}
+		@Test()
+		public void differentuser()
+		{
+			System.out.println("differentusers");
+		}
 		
 		
 //		@AfterMethod()
